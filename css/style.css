@@ -1,4 +1,26 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
-* This file contains the CSS for index.html
-*/
+Created By Jack LeVasseur Created on: Feb 26,
+2024 * This file contains the CSS for index .html */ .mdl-ripple {
+  background: #6b6666;
+  opacity: 0.001;
+}
+
+.mdl-layout__content {
+  padding-left: 15pt;
+  padding-right: 15pt;
+  padding-top: 15pt;
+}
+
+.mdl-textfield {
+  color: rgb(0, 0, 0);
+}
+
+page-content {
+  color: rgb(0, 0, 0);
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.00rem;
+}
+
+
+body {
+  background-color: rgb(99, 98, 98);
+}
