@@ -10,15 +10,19 @@ Created By Jack LeVasseur Created on: Feb 26,
   padding-top: 15pt;
 }
 
+
 .mdl-textfield {
   color: rgb(0, 0, 0);
 }
+
 
 page-content {
   color: rgb(0, 0, 0);
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.00rem;
 }
+
+
 
 
 body {
